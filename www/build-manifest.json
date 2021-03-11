@@ -13,7 +13,7 @@
       "imports": []
     },
     "js/dashboard/events/EventManager.js": {
-      "bytes": 1522,
+      "bytes": 1503,
       "imports": [
         {
           "path": "js/dashboard/api/index.js",
@@ -47,7 +47,7 @@
       ]
     },
     "_snowpack/pkg/ejs.js": {
-      "bytes": 38860,
+      "bytes": 38840,
       "imports": []
     },
     "js/utils/renderTemplate.js": {
@@ -205,7 +205,7 @@
           "bytesInOutput": 361
         },
         "js/dashboard/events/EventManager.js": {
-          "bytesInOutput": 695
+          "bytesInOutput": 674
         },
         "js/dashboard/sidebar/sideBarTemplates.js": {
           "bytesInOutput": 124
@@ -217,7 +217,7 @@
           "bytesInOutput": 36
         },
         "_snowpack/pkg/ejs.js": {
-          "bytesInOutput": 13640
+          "bytesInOutput": 13620
         },
         "js/utils/renderTemplate.js": {
           "bytesInOutput": 55
@@ -247,7 +247,7 @@
           "bytesInOutput": 263
         }
       },
-      "bytes": 18859
+      "bytes": 18818
     }
   }
 }
